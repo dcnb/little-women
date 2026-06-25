@@ -17,7 +17,7 @@
 # - External URL: https://example.com/image.jpg
 # - Collection objectid: demo_001
 #
-image-style: full-image                # full-image, half-image, or no-image
+image-style: half-image                # full-image, half-image, or no-image
 featured-image: 
   https://www.gutenberg.org/cache/epub/37106/pg37106.cover.medium.jpg
 featured-image-credit: "This is a cover of the Little Women; Or, Meg, Jo, Beth, and
@@ -47,7 +47,7 @@ show-section-nav: true
 #          gregynog, ashendene, custom
 # ────────────────────────────────────────────────────────────────────────
 
-color-theme: default
+color-theme: gregynog
 
 #### BUILT-IN THEMES (printing-history references)
 # idaho     — USDA, 1958 Douglas-fir cloth, gold stamp · dark green navbar · Spectral
